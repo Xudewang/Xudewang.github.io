@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>DoA \& KIAA at PKU</a>. Beijing, China. Contacts. Moto. Etc.
 
 profile:
   align: right
