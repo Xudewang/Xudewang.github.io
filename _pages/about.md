@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Astronomy & The Kavli Institute for Astronomy and Astrophysics (KIAA) at Peking University</a>. Beijing, China. 
+subtitle: PhD student at <a href='#'>Department of Astronomy & The Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University</a>.
 
 profile:
   align: right
