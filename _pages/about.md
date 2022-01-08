@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>DoA \& KIAA at PKU</a>. Beijing, China. Contacts. Moto. Etc.
+subtitle: <a href='#'>Department of Astronomy & The Kavli Institute for Astronomy and Astrophysics (KIAA) at Peking University</a>. Beijing, China. 
 
 profile:
   align: right
