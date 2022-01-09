@@ -23,4 +23,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
-I was born in Chaoyang City, Liaoning Province, and grew up in Xizhong Island by the Bohai Sea in Dalian City, Liaoning Province.
+I was born in Chaoyang（朝阳）City, Liaoning Province, and grew up in Xizhong Island （西中岛） by the Bohai Sea in Dalian City, Liaoning Province.
