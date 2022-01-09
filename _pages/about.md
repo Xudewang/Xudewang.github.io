@@ -8,9 +8,8 @@ profile:
   align: right
   image: me.png
   address: >
-    <p>Department of Astronomy, Physics School, Peking University</p>
-    <p>Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University</p>
-    <p>Yi He Yuan Lu 5, Hai Dian District</p>
+    <p>DoA & KIAA, Peking University</p>
+    <p>Yiheyuanlu 5, Haidian District</p>
     <p>Beijing 100871, CHINA</p>
 
 news: true  # includes a list of news items
