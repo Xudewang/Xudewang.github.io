@@ -6,7 +6,7 @@ subtitle: PhD student at <a href='#'>Department of Astronomy & The Kavli Institu
 
 profile:
   align: right
-  image: me.png
+  image: #me.png
   address: >
     <p>DoA & KIAA, Peking University</p>
     <p>Yiheyuanlu 5, Haidian District</p>
